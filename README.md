@@ -1,4 +1,4 @@
-# hangman
+# Hangman/AR
 
 A new Flutter project.
 
